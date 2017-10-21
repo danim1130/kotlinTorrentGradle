@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-nio:0.19.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-nio/0.19.1/558bbf6506402ce345459c27f1a26e5feddd27eb/kotlinx-coroutines-nio-0.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-nio/0.19.1/1b653c7423eb3511f0a8d3a069471080408fcc8f/kotlinx-coroutines-nio-0.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
